@@ -4,5 +4,5 @@ Fisher plugin for the configuration needed for [ShellHistory](https://apps.apple
 ## Installation
 
 ```
-fisher install alexclst/shellhist
+fisher install alexclst/shellhist-fisher
 ```
