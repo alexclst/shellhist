@@ -1,4 +1,4 @@
-# shellhist
+# shellhist-fisher
 [Fisher](https://github.com/jorgebucaran/fisher) plugin for the configuration needed for [ShellHistory](https://loshadki.app/shellhistory/).
 
 ## Installation
